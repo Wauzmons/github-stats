@@ -82,6 +82,9 @@ caches statistics for your repositories. For more information, see issue
    statistics images.
 9. Star this repo if you like it!
 
+## Excluded
+
+Wauzmons/MinecraftWorlds,Wauzmons/Stuff,Wauzmons/Website
 
 # Related Projects
 
